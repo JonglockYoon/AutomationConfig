@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
+<POLICY>
 <SETTING ID="NaverKeywordSearcher">
 <Type>Click</Type>
 <URL>https://smartstore.naver.com/dogdono/products/4827510376</URL>
@@ -20,3 +21,4 @@
 <Keyword>강아지샴푸 아토독</Keyword>
 <PartialLinkText>lgm309</PartialLinkText>
 </SETTING>
+</POLICY>
