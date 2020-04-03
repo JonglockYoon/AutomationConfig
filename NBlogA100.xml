@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <POLICY>
 <SETTING ID="NBlogA100">
-	<Active>True</Active> </-- False이면 이프로그램을 폐기한다. -->
-	<Users>All</Users> </-- All일때는 Group chekc를 하지않고 Member일때는 Group에 등록된 User만 동작 허가한다. -->
+	<Active>True</Active> <!-- False이면 이프로그램을 폐기한다. -->
+	<Users>All</Users> <!-- All일때는 Group check를 하지않고 Member일때는 Group에 등록된 User만 동작 허가한다. -->
 	<UserGroup1>1,2,</UserGroup1>
 	<UserGroup9>901,1000</UserGroup9>
-	<Upgrade>True</Upgrade> </-- True일때 Version이 다르면 Download한다. -->
+	<Upgrade>True</Upgrade> <!-- True일때 Version이 다르면 Download한다. -->
 	<Version>V100</Version>
-	<VersionDesc>이버젼은<br /> 새로운 Update<br /> 입니다.<br />Download하실려면 승인을 하세요</VersionDesc> </-- 사용자 화면에 나타나는 Message이다. -->
+	<VersionDesc>이버젼은<br /> 새로운 Update<br /> 입니다.<br />Download하실려면 승인을 하세요</VersionDesc> <!-- 사용자 화면에 나타나는 Message이다. -->
 	<ChromeDriver>79,80,81</ChromeDriver>
 	<Action1>
 		<URL>https://smartstore.naver.com/dogdono/products/4827510376</URL>
