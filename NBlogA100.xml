@@ -7,7 +7,12 @@
 	<UserGroup9>901,1000</UserGroup9>
 	<Upgrade>True</Upgrade> <!-- True일때 Version이 다르면 Download한다. -->
 	<Version>V100</Version>
-	<VersionDesc>이버젼은<br /> 새로운 Update<br /> 입니다.<br />Download하실려면 승인을 하세요</VersionDesc> <!-- 사용자 화면에 나타나는 Message이다. -->
+	<VersionDesc> <!-- 사용자 화면에 나타나는 Message이다. -->
+	이버젼은
+	새로운 Update
+	입니다.
+	Download하실려면 승인을 하세요
+	</VersionDesc> 
 	<ChromeDriver>79,80,81</ChromeDriver>
 	<Action1>
 		<URL>https://smartstore.naver.com/dogdono/products/4827510376</URL>
