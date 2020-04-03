@@ -1,24 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <POLICY>
-<SETTING ID="NaverKeywordSearcher">
-<Type>Click</Type>
-<URL>https://smartstore.naver.com/dogdono/products/4827510376</URL>
-<PartialLinkText>찜하기</PartialLinkText>
+<SETTING ID="NBlogA100">
+   <UpdatePolicy>True</UpdatePolicy>
+   <Version>V100</Version>
+   <VersionDesc>이버젼은<br /> 새로운 Update<br /> 입니다.</VersionDesc>
+   <Type>Click</Type>
+   <URL>https://smartstore.naver.com/dogdono/products/4827510376</URL>
+   <PartialLinkText>aa</PartialLinkText>
 </SETTING>
-<SETTING ID="0002">
-<Type>Search</Type>
-<Keyword>강아지샴푸 아토독</Keyword>
-<PartialLinkText>lgm309</PartialLinkText>
-</SETTING>
-
 <SETTING ID="NaverLikeClicker">
-<Type>Click</Type>
-<URL>https://smartstore.naver.com/dogdono/products/4827510376</URL>
-<PartialLinkText>찜하기</PartialLinkText>
-</SETTING>
-<SETTING ID="0004">
-<Type>Search</Type>
-<Keyword>강아지샴푸 아토독</Keyword>
-<PartialLinkText>lgm309</PartialLinkText>
+   <Type>Click</Type>
+   <URL>https://smartstore.naver.com/dogdono/products/4827510376</URL>
+   <PartialLinkText>bb</PartialLinkText>
 </SETTING>
 </POLICY>
