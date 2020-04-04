@@ -13,13 +13,13 @@
 	</VersionDesc> 
 	<ChromeDriver>79,80,81</ChromeDriver>
 	<Action1>
-		<Action>Search</Search>
+		<Action>Search</Action>
 		<SearchText>강아지샴푸 아토독</SearchText>
 		<FindText1>lgm309</FindText1>
 		<FindText2>도그도노 프리미엄 아토독</FindText2>
 	</Action1>
 	<Action2>
-		<Action>Click</Search>
+		<Action>Click</Action>
 		<URL>https://smartstore.naver.com/dogdono/products/4827510376</URL>
 		<PartialLinkText>찜하기</PartialLinkText>
 		<Class>store_btn</Class>
