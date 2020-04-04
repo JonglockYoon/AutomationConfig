@@ -21,6 +21,7 @@
 	<Action2>
 		<Action>Click</Action>
 		<URL>https://smartstore.naver.com/dogdono/products/4827510376</URL>
+		<PassText>찜한스토어</PassText>
 		<PartialLinkText>찜하기</PartialLinkText>
 		<Class>store_btn</Class>
 	</Action2>
