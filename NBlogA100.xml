@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <POLICY>
 <SETTING ID="NBlogA100">
 	<Active>True</Active> <!-- False이면 이프로그램을 폐기한다. -->
@@ -6,18 +6,23 @@
 	<UserGroup1>1,2,</UserGroup1>
 	<UserGroup9>901,1000</UserGroup9>
 	<Upgrade>True</Upgrade> <!-- True일때 Version이 다르면 Download한다. -->
-	<Version>V100</Version>
+	<Version>V1.00</Version>
 	<VersionDesc> <!-- 사용자 화면에 나타나는 Message이다. -->
-	이버젼은
-	새로운 Update
-	입니다.
-	Download하실려면 승인을 하세요
+	새로운 Update버젼이 올라와 있습니다.
+	새로운 버젼을 사용하실려면 Upgrade버턴을 누르세요
 	</VersionDesc> 
 	<ChromeDriver>79,80,81</ChromeDriver>
 	<Action1>
+		<Action>Search</Search>
+		<SearchText>강아지샴푸 아토독</SearchText>
+		<FindText1>lgm309</FindText1>
+		<FindText2>도그도노 프리미엄 아토독</FindText2>
+	</Action1>
+	<Action2>
+		<Action>Click</Search>
 		<URL>https://smartstore.naver.com/dogdono/products/4827510376</URL>
 		<PartialLinkText>찜하기</PartialLinkText>
 		<Class>store_btn</Class>
-	</Action1>
+	</Action2>
 </SETTING>
 </POLICY>
