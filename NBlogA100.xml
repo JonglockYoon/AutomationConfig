@@ -11,6 +11,11 @@
 	새로운 Update버젼이 올라와 있습니다.
 	새로운 버젼을 사용하실려면 Upgrade버턴을 누르세요
 	</VersionDesc> 
+	<Guide> <!-- 사용자 화면에 나타나는 Program 사용 Manual입니다. -->
+	네이버 블로그 마케팅 및 관리 자동화 프로그램입니다.
+	NBlogA100.exe 및 chromedriver.exe를 바탕화면 e3 폴더 또는 적당한 폴더를 만들어 Copy합니다.
+	NBlogA100.exe를 더블클릭해서 실행합니다.
+	</Guide>
 	<ChromeDriver>79,80,81</ChromeDriver>
 	<Action1>
 		<Action>Search</Action>
