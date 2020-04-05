@@ -8,42 +8,18 @@
 	<Upgrade>True</Upgrade> <!-- True일때 Version이 다르면 Download한다. -->
 	<Version>V1.00</Version>
 	<VersionDesc> <!-- 사용자 화면에 나타나는 Message이다. -->
-	새로운 Update버젼이 올라와 있습니다.
-	새로운 버젼을 사용하실려면 Upgrade버턴을 누르세요
+새로운 Update버젼이 올라와 있습니다.
+새로운 버젼을 사용하실려면 Upgrade버턴을 누르세요
 	</VersionDesc> 
 	<Guide> <!-- 사용자 화면에 나타나는 Program 사용 Manual입니다. -->
-	네이버 블로그 마케팅 및 관리 자동화 프로그램입니다.
-	NBlogA100.exe를 더블클릭해서 실행합니다.
-	
-	NBlogA100.exe,chromedriver.exe,WebDriver.dll
-	및 모든 파을을 바탕화면 e3 폴더 또는 적당한 폴더를 만들어 Copy합니다.
-	
-	검색은 환경설정에서 설정한 카운터 및 시간에따라 동작합니다.
+네이버 블로그 마케팅 및 관리 자동화 프로그램입니다.
+NBlogA100.exe를 더블클릭해서 실행합니다.
 
+NBlogA100.exe,chromedriver.exe,WebDriver.dll
+및 모든 파을을 바탕화면 e3 폴더 또는 적당한 폴더를 만들어 Copy합니다.
 
+검색은 환경설정에서 설정한 키워드 와 카운터 및 시간에따라 동작합니다.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    end..	
 	</Guide>
 	<ChromeDriver>79,80,81</ChromeDriver>
 	<Action1>
