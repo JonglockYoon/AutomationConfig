@@ -6,7 +6,7 @@
 	<UserGroup1>1,2,</UserGroup1>
 	<UserGroup9>901,1000</UserGroup9>
 	<Upgrade>True</Upgrade> <!-- True일때 Version이 다르면 Download한다. -->
-	<Version>V1.00</Version>
+	<Version>V1.10</Version>
 	<VersionDesc> <!-- 사용자 화면에 나타나는 Message이다. -->
 이웃리스트에서 '선택이웃새그룹으로이동'기능이 추가 되었습니다.
 새로운 버젼을 사용하실려면 Upgrade버턴을 누르세요
