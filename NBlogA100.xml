@@ -28,6 +28,7 @@ Chrome을 최신버젼으로 Upgrade한후 다시 실행하세요.
 		<SearchText>강아지샴푸 아토독</SearchText>
 		<FindText1>lgm309</FindText1>
 		<FindText2>도그도노 프리미엄 아토독</FindText2>
+		<Interval>20</Interval>
 	</Action1>
 	<Action2>
 		<Action>Click</Action>
