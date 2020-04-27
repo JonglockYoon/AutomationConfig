@@ -7,6 +7,7 @@
 	<UserGroup9>901,1000</UserGroup9>
 	<Upgrade>True</Upgrade> <!-- True일때 Version이 다르면 Download한다. -->
 	<Version>V1.30</Version>
+	<OtherAuth>12345</OtherAuth>
 	<VersionDesc> <!-- 사용자 화면에 나타나는 Message이다. -->
 V1.11에서 '선택이웃새그룹으로이동'기능 추가
 V1.20에서 '내글공감자동응답' 기능이 추가되었습니다.
