@@ -44,7 +44,7 @@ V1.41에서 그룹정보 선택그룹이웃리스트가져오기 및 공감답�
 환경설정
   사용자 정보를 등록하는 화면입니다.
 	</Guide>
-	<ChromeDriver>83,81,80,79</ChromeDriver>
+	<ChromeDriver>83,84,81,80,79</ChromeDriver>
 	<Action1>
 		<Action>Search</Action>
 		<SearchText>강아지샴푸 아토독</SearchText>
