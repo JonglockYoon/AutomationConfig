@@ -9,6 +9,7 @@
 	<Version>V1.41</Version>
 	<OtherAuth>12345</OtherAuth>
 	<Table3>1</Table3>
+	<LikeWaitSec>7</LikeWaitSec>
 	<VersionDesc> <!-- 사용자 화면에 나타나는 Message이다. -->
 V1.11에서 '선택이웃새그룹으로이동'기능 추가
 V1.20에서 '내글공감자동응답' 기능이 추가되었습니다.
