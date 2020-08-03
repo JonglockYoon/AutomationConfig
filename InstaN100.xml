@@ -1,1 +1,48 @@
-﻿<?xml version="1.0" encoding="utf-8"?><SETTING ID="1"><ID></ID><PW></PW><LastStoreTime></LastStoreTime><Auth></Auth><Reserved1></Reserved1></SETTING>
+<?xml version="1.0" encoding="utf-8"?>
+<POLICY>
+<SETTING ID="NBlogN100">
+	<Active>True</Active> <!-- False이면 이프로그램을 폐기한다. -->
+	<Users>All</Users> <!-- All일때는 Group check를 하지않고 Member일때는 Group에 등록된 User만 동작 허가한다. -->
+	<UserGroup1>1,2,</UserGroup1>
+	<UserGroup9>901,1000</UserGroup9>
+	<Upgrade>True</Upgrade> <!-- True일때 Version이 다르면 Download한다. -->
+	<Version>V1.55</Version>
+	<OtherAuth>12345</OtherAuth>
+	<Table3>1</Table3>
+	<LikeWaitSec>7</LikeWaitSec>
+	<CommentWaitSec>7</CommentWaitSec>
+	<VersionDesc> <!-- 사용자 화면에 나타나는 Message이다. -->
+V2.00 인스타그램 오토메이션 V2.00
+새로운 버젼을 사용하실려면 Upgrade버턴을 누르세요
+	</VersionDesc> 
+	<Guide> *환경설정에서 ID입력 및 저장히시고 인증버턴을누르면 모든메뉴사용이 가능합니다.<!-- 사용자 화면에 나타나는 Program 사용 Manual입니다. -->
+ 인스타그램 자동화 프로그램입니다.
+이웃현황
+
+변경이력
+
+내글공감응답
+
+최근이웃글
+    
+새로운이웃찾기
+
+환경설정
+  사용자 정보를 등록하는 화면입니다.
+	</Guide>
+	<ChromeDriver>83,84,81,80,79</ChromeDriver>
+	<Action1>
+		<Action>Search</Action>
+		<SearchText>아토독</SearchText>
+		<FindText1>lgm309</FindText1>
+		<FindText2>도그도노 프리미엄 아토독</FindText2>
+	</Action1>
+	<Action2>
+		<Action>Click</Action>
+		<URL>https://smartstore.naver.com/dogdono/products/4827510376</URL>
+		<PassText>찜한스토어</PassText>
+		<PartialLinkText>찜하기</PartialLinkText>
+		<Class>store_btn</Class>
+	</Action2>
+</SETTING>
+</POLICY>
