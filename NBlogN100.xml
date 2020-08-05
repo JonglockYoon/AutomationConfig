@@ -56,7 +56,7 @@ V1.55에서 새로운 이웃 찾기 실행중 죽는 문제 오류 및 LikeComme
 		<Action>Search</Action>
 		<SearchText>아토독</SearchText>
 		<FindText1>lgm309</FindText1>
-		<FindText2>도그도노 프리미엄 아토독 발효</FindText2>
+		<FindText2>도그도노 프리미엄 아토독</FindText2>
 	</Action1>
 	<Action2>
 		<Action>Click</Action>
