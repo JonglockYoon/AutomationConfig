@@ -6,27 +6,33 @@
 	<UserGroup1>1,2,</UserGroup1>
 	<UserGroup9>901,1000</UserGroup9>
 	<Upgrade>True</Upgrade> <!-- True일때 Version이 다르면 Download한다. -->
-	<Version>V1.55</Version>
+	<Version>V1.01</Version>
 	<OtherAuth>12345</OtherAuth>
 	<Table3>1</Table3>
 	<LikeWaitSec>7</LikeWaitSec>
 	<CommentWaitSec>7</CommentWaitSec>
 	<VersionDesc> <!-- 사용자 화면에 나타나는 Message이다. -->
-V2.00 인스타그램 오토메이션 V2.00
+V1.01 
+인스타그램 오토메이션
 새로운 버젼을 사용하실려면 Upgrade버턴을 누르세요
 	</VersionDesc> 
 	<Guide> *환경설정에서 ID입력 및 저장히시고 인증버턴을누르면 모든메뉴사용이 가능합니다.<!-- 사용자 화면에 나타나는 Program 사용 Manual입니다. -->
  인스타그램 자동화 프로그램입니다.
-이웃현황
-
+		
+이웃리스트
+  이웃리스트가져오기 - 팔로워 와 팔로잉 이웃들을 가져옵니다 (맞팔로우를 확인해줍니다)
+  Database로 저장 - 변경이력을 위해 저장해둡니다 (향후 언팔 Check를 위해)
+  Database가져오기 - 기존 저장한 정보를 가져옵니다
 변경이력
-
-내글공감응답
-
-최근이웃글
-    
-새로운이웃찾기
-
+  팔로워 팔로잉 맞팔 언팔을 구분합니다
+검색으로이웃찾기
+  특정키워드를 이용해서 인스타그램 사용자리스트를 가져옵니다 
+팔로우로이웃찾기
+   검색으로이웃찾기를 하셨고 팔로우신청을 하셨다면 팔로우의팔로우 리스트를 가져옵니다
+팔로우신청
+   화면상의 리스트를 선택하시고 '선택리스트 팔로신청'버턴으로 팔로우 신청을 할 수 있습니다
+   팔로우 신청하면서 DM보내기가 가능합니다
+   DM을 보낼때 팔로우 대상자의 이름을 사용할 수 있습니다(이름이 길면 잇님으로 표기합니다)
 환경설정
   사용자 정보를 등록하는 화면입니다.
 	</Guide>
