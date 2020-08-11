@@ -30,7 +30,7 @@ V2.00 인스타그램 오토메이션 V2.00
 환경설정
   사용자 정보를 등록하는 화면입니다.
 	</Guide>
-	<ChromeDriver>83,84,81,80,79</ChromeDriver>
+	<ChromeDriver>85,84,83,81,80,79</ChromeDriver>
 	<Action1>
 		<Action>Search</Action>
 		<SearchText>아토독</SearchText>
