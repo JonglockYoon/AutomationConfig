@@ -51,7 +51,7 @@ V1.55에서 새로운 이웃 찾기 실행중 죽는 문제 오류 및 LikeComme
 환경설정
   사용자 정보를 등록하는 화면입니다.
 	</Guide>
-	<ChromeDriver>83,84,81,80,79</ChromeDriver>
+	<ChromeDriver>84,85,83,81,80,79</ChromeDriver>
 	<Action1>
 		<Action>Search</Action>
 		<SearchText>아토독</SearchText>
