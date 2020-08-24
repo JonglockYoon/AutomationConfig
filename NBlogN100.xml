@@ -8,7 +8,7 @@
 	<Upgrade>True</Upgrade> <!-- True일때 Version이 다르면 Download한다. -->
 	<Version>V1.55</Version>
 	<OtherAuth>12345</OtherAuth>
-	<Table3>1</Table3>
+	<Table3>2</Table3>
 	<LikeWaitSec>7</LikeWaitSec>
 	<CommentWaitSec>7</CommentWaitSec>
 	<VersionDesc> <!-- 사용자 화면에 나타나는 Message이다. -->
