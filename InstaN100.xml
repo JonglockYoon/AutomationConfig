@@ -6,13 +6,13 @@
 	<UserGroup1>1,2,</UserGroup1>
 	<UserGroup9>901,1000</UserGroup9>
 	<Upgrade>True</Upgrade> <!-- True일때 Version이 다르면 Download한다. -->
-	<Version>V1.21</Version>
+	<Version>V1.22</Version>
 	<OtherAuth>12345</OtherAuth>
 	<Table3>1</Table3>
 	<LikeWaitSec>7</LikeWaitSec>
 	<CommentWaitSec>7</CommentWaitSec>
 	<VersionDesc> <!-- 사용자 화면에 나타나는 Message이다. -->
-V1.21
+V1.22
 인스타그램 오토메이션
 새로운 버젼을 사용하실려면 Upgrade버턴을 누르세요
 		
@@ -27,7 +27,8 @@ V1.17에서 팔로우신청,언팔로우신청,내피드좋아요클릭 안정�
 V1.18에서 팔로우신청,언팔로우신청 안정화 되었습니다(팔로우신청몇회당DM은 2이상으로 해주세요)
 V1.19에서 이웃리스트 언팔로우신청 기능이 보완되었습니다
 V1.20에서 변경이력 내에 언팔로우신청 기능이 추가 되었습니다
-V1.21 팔로워요청을 하루 80건으로 제안
+V1.21에서 팔로워요청을 하루 80건으로 제안
+V1.22에서 로그인방법개선 
 	</VersionDesc> 
 	<Guide> *환경설정에서 ID입력 및 저장히시고 인증버턴을누르면 모든메뉴사용이 가능합니다.<!-- 사용자 화면에 나타나는 Program 사용 Manual입니다. -->
  인스타그램 자동화 프로그램입니다.
