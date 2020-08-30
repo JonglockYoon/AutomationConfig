@@ -6,7 +6,7 @@
 	<UserGroup1>1,2,</UserGroup1>
 	<UserGroup9>901,1000</UserGroup9>
 	<Upgrade>True</Upgrade> <!-- True일때 Version이 다르면 Download한다. -->
-	<Version>V1.56</Version>
+	<Version>V1.57</Version>
 	<OtherAuth>12345</OtherAuth>
 	<Table3>2</Table3>
 	<LikeWaitSec>7</LikeWaitSec>
@@ -23,6 +23,7 @@ V1.51에서 새로운 이웃 찾기 기능이 추가되었습니다.
 V1.52에서 새로운 이웃 찾기 기능에 댓글의 새로운 시도를 해보았습니다.
 V1.55에서 새로운 이웃 찾기 실행중 죽는 문제 오류 및 LikeCommentInfo 오류를 재 수정하였습니다.
 V1.56에서 이웃리스트가져오기가 개선되었습니다.
+V1.57에서 로그인방법이 개선되었습니다.
 새로운 버젼을 사용하실려면 Upgrade버턴을 누르세요
 	</VersionDesc> 
 	<Guide> *환경설정에서 ID입력 및 저장히시고 인증버턴을누르면 모든메뉴사용이 가능합니다.<!-- 사용자 화면에 나타나는 Program 사용 Manual입니다. -->
