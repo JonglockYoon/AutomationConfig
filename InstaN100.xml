@@ -80,11 +80,11 @@ V1.22에서 로그인방법개선
 		<FindText2>도그도노 프리미엄 아토독</FindText2>
 	</Action1>
 	<Action2>
-		<Action>Click</Action>
-		<URL>https://www.instagram.com/medisos_acegroup/</URL>
-		<PassText>찜한스토어</PassText>
-		<PartialLinkText>찜하기</PartialLinkText>
-		<Class>store_btn</Class>
+		<Action>Search</Action>
+		<URL>https://www.coupang.com</URL>
+		<SearchText>강아지샴푸 아토독</SearchText>
+		<FindText1>아토독 발효 명품 샴푸</FindText1>
+		<FindText2></FindText2>
 	</Action2>
 </SETTING>
 </POLICY>
