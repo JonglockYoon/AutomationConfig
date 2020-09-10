@@ -96,12 +96,6 @@ V1.25에서 팔로워신청 문구 저장 기능 추가 및 팔로워대상 지�
 		<FindText1>아토독 발효 명품 샴푸</FindText1>
 		<FindText2></FindText2>
 	</Action2>
-	<Action3>
-		<Action>Search</Action>
-		<URL>https://www.coupang.com</URL>
-		<SearchText>애드올 신퉁이방퉁이</SearchText>
-		<FindText1>신퉁이방퉁이 애드올 에센스 비누 100g</FindText1>
-		<FindText2></FindText2>
-	</Action3>
+
 </SETTING>
 </POLICY>
