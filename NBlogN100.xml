@@ -70,5 +70,12 @@ V1.59에서 새로운이웃찾기문구 저장기능이 추가되었습니다.
 		<FindText1>아토독 발효 명품 샴푸</FindText1>
 		<FindText2></FindText2>
 	</Action2>
+	<Action3>
+		<Action>Search</Action>
+		<URL>https://www.coupang.com</URL>
+		<SearchText>애드올 신퉁이방퉁이</SearchText>
+		<FindText1>신퉁이방퉁이 애드올 에센스 비누 100g</FindText1>
+		<FindText2></FindText2>
+	</Action3>	
 </SETTING>
 </POLICY>
