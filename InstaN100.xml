@@ -99,8 +99,8 @@ V1.25에서 팔로워신청 문구 저장 기능 추가 및 팔로워대상 지�
 	<Action3>
 		<Action>Search</Action>
 		<URL>https://www.coupang.com</URL>
-		<SearchText>신퉁이방퉁이</SearchText>
-		<FindText1>3일의기적 신퉁이방퉁이 소미티나 애드올 에센스 비누 100g</FindText1>
+		<SearchText>애드올 신퉁이방퉁이</SearchText>
+		<FindText1>신퉁이방퉁이 애드올 에센스 비누 100g</FindText1>
 		<FindText2></FindText2>
 	</Action3>
 </SETTING>
