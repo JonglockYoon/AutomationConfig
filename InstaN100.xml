@@ -93,8 +93,8 @@ V1.28에서 로그인할때 ID 와 암호를 저장하지 않고 로그인하도
 	<Action2>
 		<Action>Search</Action>
 		<URL>https://www.coupang.com</URL>
-		<SearchText>강아지샴푸 아토독</SearchText>
-		<FindText1>아토독 발효 명품 샴푸</FindText1>
+		<SearchText>애드올 신퉁이방퉁이</SearchText>
+		<FindText1>신퉁이방퉁이 애드올 에센스 비누 100g</FindText1>
 		<FindText2></FindText2>
 	</Action2>
 
