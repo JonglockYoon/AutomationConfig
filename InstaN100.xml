@@ -88,7 +88,7 @@ V1.30에서 팔로우의팔로우로 이웃찾기에서 제외단어 추가되�
 	<ChromeDriver>85,84,83,81,80,79</ChromeDriver>
 	<Action1>
 		<Action>Search</Action>
-		<SearchText>아토독</SearchText>
+		<SearchText>강아지샴푸 아토독</SearchText>
 		<FindText1>lgm309</FindText1>
 		<FindText2>도그도노 프리미엄 아토독</FindText2>
 	</Action1>
