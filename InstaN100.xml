@@ -6,14 +6,14 @@
 	<UserGroup1>1,2,</UserGroup1>
 	<UserGroup9>901,1000</UserGroup9>
 	<Upgrade>True</Upgrade> <!-- True일때 Version이 다르면 Download한다. -->
-	<Version>V1.29</Version>
+	<Version>V1.30</Version>
 	<OtherAuth>12345</OtherAuth>
 	<Table3>1</Table3>
 	<LikeWaitSec>7</LikeWaitSec>
 	<CommentWaitSec>7</CommentWaitSec>
 	<AuthURL>https://www.instagram.com/atodog_/</AuthURL>
 	<VersionDesc> <!-- 사용자 화면에 나타나는 Message이다. -->
-V1.29
+V1.30
 인스타그램 오토메이션
 새로운 버젼을 사용하실려면 Upgrade버턴을 누르세요
 		
@@ -33,6 +33,7 @@ V1.23에서 로그인방법개선
 V1.25에서 팔로워신청 문구 저장 기능 추가 및 팔로워대상 지우기 기능이 추가되었습니다.
 V1.28에서 로그인할때 ID 와 암호를 저장하지 않고 로그인하도록 변경되었습니다
 V1.29에서 내피드 좋아요 클릭 기능 개선	
+V1.30에서 팔로우의팔로우로 이웃찾기에서 제외단어 추가되었습니다
 	</VersionDesc> 
 	<Guide> *환경설정에서 ID입력 및 저장히시고 인증버턴을누르면 모든메뉴사용이 가능합니다.<!-- 사용자 화면에 나타나는 Program 사용 Manual입니다. -->
  인스타그램 자동화 프로그램입니다.
