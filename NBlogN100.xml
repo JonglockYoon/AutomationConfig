@@ -65,7 +65,7 @@ V1.65에서 이웃한테 안부전하기 기능이 추가되었습니다
 환경설정
   사용자 정보를 등록하는 화면입니다.
 	</Guide>
-	<ChromeDriver>84,85,83,81,80,79</ChromeDriver>
+	<ChromeDriver>85,86,84,83,81,80,79</ChromeDriver>
 	<Action1>
 		<Action>Search</Action>
 		<URL>https://www.naver.com</URL>
