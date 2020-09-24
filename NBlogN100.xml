@@ -10,7 +10,7 @@
 	<OtherAuth>12345</OtherAuth>
 	<Table3>2</Table3>
 	<LikeWaitSec>7</LikeWaitSec>
-	<CommentWaitSec>7</CommentWaitSec>
+	<CommentWaitSec>37</CommentWaitSec>
 	<AuthURL>https://smartstore.naver.com/dogdono/products/4827510376</AuthURL>
 	<VersionDesc> <!-- 사용자 화면에 나타나는 Message이다. -->
 V1.11에서 '선택이웃새그룹으로이동'기능 추가
