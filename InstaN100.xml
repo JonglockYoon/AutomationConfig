@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <POLICY>
-<SETTING ID="NBlogN100">
+<SETTING ID="InstaN100">
 	<Active>True</Active> <!-- False이면 이프로그램을 폐기한다. -->
 	<Users>All</Users> <!-- All일때는 Group check를 하지않고 Member일때는 Group에 등록된 User만 동작 허가한다. -->
 	<UserGroup1>1,2,</UserGroup1>
@@ -9,8 +9,8 @@
 	<Version>V1.32</Version>
 	<OtherAuth>12345</OtherAuth>
 	<Table3>1</Table3>
-	<LikeWaitSec>7</LikeWaitSec>
-	<CommentWaitSec>7</CommentWaitSec>
+	<LikeWaitSec>5</LikeWaitSec>
+	<CommentWaitSec>40</CommentWaitSec>
 	<AuthURL>https://www.instagram.com/atodog_/</AuthURL>
 	<VersionDesc> <!-- 사용자 화면에 나타나는 Message이다. -->
 인스타그램 오토메이션
