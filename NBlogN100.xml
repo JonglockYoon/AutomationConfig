@@ -6,7 +6,7 @@
 	<UserGroup1>1,2,</UserGroup1>
 	<UserGroup9>901,1000</UserGroup9>
 	<Upgrade>True</Upgrade> <!-- True일때 Version이 다르면 Download한다. -->
-	<Version>V1.68</Version>
+	<Version>V1.69</Version>
 	<OtherAuth>12345</OtherAuth>
 	<Table3>2</Table3>
 	<LikeWaitSec>7</LikeWaitSec>
@@ -31,8 +31,9 @@ V1.62에서 그룹정보의 나만이웃,각각이웃분류 기능 오류를 수
 V1.63에서 이웃리스트가져오기 할때 브라우저 화면 보기 기능을 추가 하였습니다
 V1.65에서 이웃한테 안부전하기 기능이 추가되었습니다
 V1.67에서 이웃한테 댓글쓰기 기능 과 마이크로소프트에지 브라우저를 지원합니다
+          기존 파이어폭스이용자께서는 환경설정에서 파이어폭스를 선택하세요		
 V1.68에서 이웃이 내블로그 글에 좋아요 누른 시각(내글공감응답이 선행 되어야합니다)
-          기존 파이어폭스이용자께서는 환경설정에서 파이어폭스를 선택하세요
+V1.69에서 PageView기능(브라우저화면보기)이 추가 되었습니다.	
 새로운 버젼을 사용하실려면 Upgrade버턴을 누르세요
 	</VersionDesc> 
 	<Guide> *환경설정에서 ID입력 및 저장히시고 인증버턴을누르면 모든메뉴사용이 가능합니다.<!-- 사용자 화면에 나타나는 Program 사용 Manual입니다. -->
