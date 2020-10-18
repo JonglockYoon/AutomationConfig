@@ -77,10 +77,9 @@ V1.70에서 이웃 댓글발송 이미지 첨부 기능이 추가 되었습니�
 	<EdgeDriver>85,86,87</EdgeDriver>
 	<Action1>
 		<Action>Search</Action>
-		<URL>https://www.naver.com</URL>
-		<SearchText>아토독</SearchText>
-		<FindText1>lgm309</FindText1>
-		<FindText2>도그도노 프리미엄 아토독</FindText2>
+		<SearchText>독일피엠인터내셔널</SearchText>
+		<FindText1>lkm1463</FindText1>
+		<FindText2>도그도노</FindText2>
 	</Action1>
 	<Action2>
 		<Action>Search</Action>
