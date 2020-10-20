@@ -94,8 +94,8 @@ V1.38에서 DM(쪽지) 발송 이미지 첨부하면 Text 발송후 이미지 �
 주의사항:
 오른쪽 버턴이 빨간색(작업중)일때 왼쪽 리스트 상단을 클릭해서 순서를 바꾸면 오동작을 일으킬수 있으며 결과가 엉뚱하게 보일수 있습니다.
 	</Guide>
-	<ChromeDriver>85,86,84,83,81,80,79</ChromeDriver>
-	<EdgeDriver>85,86,87</EdgeDriver>
+	<ChromeDriver>86,87,85,84,83,81,80,79</ChromeDriver>
+	<EdgeDriver>86,87,88,85</EdgeDriver>
 	<Action1>
 		<Action>Search</Action>
 		<URL>https://www.naver.com</URL>
