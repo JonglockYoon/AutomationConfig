@@ -89,9 +89,9 @@ V1.43에서 좋아요클릭 개선이 되었습니다.
 	<Action1>
 		<Action>Search</Action>
 		<URL>https://www.naver.com</URL>
-		<SearchText>아토독</SearchText>
-		<FindText1>lgm309</FindText1>
-		<FindText2>도그도노 프리미엄 아토독</FindText2>
+		<SearchText>pm쥬스 가격</SearchText>
+		<FindText1>피엠인터내셔널임경미</FindText1>
+		<FindText2></FindText2>
 	</Action1>
 	<Action2>
 		<Action>Search</Action>
