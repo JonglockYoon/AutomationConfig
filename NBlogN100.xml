@@ -67,9 +67,10 @@ V1.72에서 이웃글공감 7->9시간으로 늘어났으며 찜하기와소식�
 	<EdgeDriver>86,87,88,85</EdgeDriver>
 	<Action1>
 		<Action>Search</Action>
-		<SearchText>독일피엠주스</SearchText>
-		<FindText1>피엠인터내셔널임경미</FindText1>
-		<FindText2>도그도노</FindText2>
+		<URL>https://www.naver.com</URL>
+		<SearchText>강아지샴푸 아토독</SearchText>
+		<FindText1>lgm309</FindText1>
+		<FindText2>도그도노 프리미엄 아토독</FindText2>
 	</Action1>
 	<Action2>
 		<Action>Search</Action>
