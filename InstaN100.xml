@@ -89,7 +89,7 @@ V1.44에서 검색으로이웃찾기, 팔로우신청이 개선되었습니다.
 	<Action1>
 		<Action>Search</Action>
 		<URL>https://www.naver.com</URL>
-		<SearchText>독일pm쥬스 신제품</SearchText>
+		<SearchText>피엠인터내셔널</SearchText>
 		<FindText1>피엠인터내셔널임경미</FindText1>
 		<FindText2>도그도노 프리미엄 아토독</FindText2>
 	</Action1>
