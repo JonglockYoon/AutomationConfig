@@ -69,7 +69,7 @@ V1.73에서 이웃리스트가져오기 할때 안되는 분들은 환경설정�
 	<Action1>
 		<Action>Search</Action>
 		<URL>https://www.naver.com</URL>
-		<SearchText>독일pm쥬스</SearchText>
+		<SearchText>독일pm쥬스 신제품</SearchText>
 		<FindText1>피엠인터내셔널임경미</FindText1>
 		<FindText2>아토독</FindText2>
 	</Action1>
