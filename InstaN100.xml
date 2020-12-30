@@ -6,7 +6,7 @@
 	<UserGroup1>1,2,</UserGroup1>
 	<UserGroup9>901,1000</UserGroup9>
 	<Upgrade>True</Upgrade> <!-- True일때 Version이 다르면 Download한다. -->
-	<Version>V1.44</Version>
+	<Version>V1.45</Version>
 	<OtherAuth>12345</OtherAuth>
 	<Table3>1</Table3>
 	<LikeWaitSec>7</LikeWaitSec>
@@ -31,6 +31,7 @@ V1.39에서 DM(쪽지) 발송 이미지 첨부하면 Text 발송후 이미지 �
 V1.41에서 이웃리스트가져오기 개선이 되었습니다
 V1.42에서 이웃리스트가져오기 와 입력한이웃의 팔로우 가져오기가 개선되었습니다.
 V1.44에서 검색으로이웃찾기, 팔로우신청이 개선되었습니다.		
+V1.45에서 검색으로이웃찾기가 개선되었습니다.		
 </VersionDesc> 
 <Guide> *환경설정에서 ID입력 및 저장히시고 인증버턴을누르면 모든메뉴사용이 가능합니다.<!-- 사용자 화면에 나타나는 Program 사용 Manual입니다. -->
  인스타그램 자동화 프로그램입니다.
