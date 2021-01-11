@@ -10,7 +10,7 @@
 	<OtherAuth>12345</OtherAuth>
 	<Table3>2</Table3>
 	<LikeWaitSec>7</LikeWaitSec>
-	<Interval>40</Interval>
+	<Interval>60</Interval>
 	<CommentWaitSec>25</CommentWaitSec>
 	<AuthURL>https://smartstore.naver.com/dogdono/products/4827510376</AuthURL>
 	<VersionDesc> <!-- 사용자 화면에 나타나는 Message이다. -->
@@ -70,7 +70,7 @@ V1.73에서 이웃리스트가져오기 할때 안되는 분들은 환경설정�
 	<Action1>
 		<Action>Search</Action>
 		<URL>https://www.naver.com</URL>
-		<SearchText>독일피엠쥬스</SearchText>
+		<SearchText>독일pm쥬스 파워칵테일 주니어</SearchText>
 		<FindText1>피엠인터내셔널임경미</FindText1>
 		<FindText2>아토독</FindText2>
 	</Action1>
