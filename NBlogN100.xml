@@ -71,7 +71,7 @@ V1.74에서 Program 시작이 안되는 문제점이 개선 되었습니다.
 	<Action1>
 		<Action>Search</Action>
 		<URL>https://www.naver.com</URL>
-		<SearchText>대구독일pm</SearchText>
+		<SearchText>독일pm쥬스</SearchText>
 		<FindText1>피엠인터내셔널임경미</FindText1>
 		<FindText2>아토독</FindText2>
 	</Action1>
