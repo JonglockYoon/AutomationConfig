@@ -11,7 +11,7 @@
 	<Table3>2</Table3>
 	<LikeWaitSec>7</LikeWaitSec>
 	<Interval>60</Interval>
-	<Stay>120</Stay>
+	<Stay>125</Stay>
 	<CommentWaitSec>25</CommentWaitSec>
 	<AuthURL>https://smartstore.naver.com/dogdono/products/4827510376</AuthURL>
 	<VersionDesc> <!-- 사용자 화면에 나타나는 Message이다. -->
