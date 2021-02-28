@@ -71,7 +71,7 @@ V1.75에서 Chrome Browser Version이 변경되면서 2초만에 종료되는 �
 	<Action1>
 		<Action>Search</Action>
 		<URL>https://www.naver.com</URL>
-		<SearchText>독일pm쥬스</SearchText>
+		<SearchText>독일pm쥬스 맨플러스</SearchText>
 		<FindText1>피엠인터내셔널임경미</FindText1>
 		<FindText2>아토독</FindText2>
 	</Action1>
