@@ -10,8 +10,8 @@
 	<OtherAuth>12345</OtherAuth>
 	<Table3>2</Table3>
 	<LikeWaitSec>7</LikeWaitSec>
-	<Interval>55</Interval>
-	<Stay>119</Stay>
+	<Interval>95</Interval>
+	<Stay>129</Stay>
 	<CommentWaitSec>25</CommentWaitSec>
 	<AuthURL>https://smartstore.naver.com/dogdono/products/4827510376</AuthURL>
 	<VersionDesc> <!-- 사용자 화면에 나타나는 Message이다. -->
