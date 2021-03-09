@@ -67,7 +67,7 @@ V1.76에서 안정화작업이 일부 되었습니다.
   사용자 정보를 등록하는 화면입니다.
 	</Guide>
 	<ChromeDriver>87,88,89,86,85,84,83,81,80,79</ChromeDriver>
-	<EdgeDriver>86,87,88,89,85</EdgeDriver>
+	<EdgeDriver>88,89,90,87,86,85</EdgeDriver>
 	<Action1>
 		<Action>Search</Action>
 		<URL>https://www.naver.com</URL>
