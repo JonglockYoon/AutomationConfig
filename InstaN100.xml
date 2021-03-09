@@ -83,7 +83,7 @@ V1.50에서 팔로우로이웃찾기기능이 개선되었습니다.
 주의사항:
 오른쪽 버턴이 빨간색(작업중)일때 왼쪽 리스트 상단을 클릭해서 순서를 바꾸면 오동작을 일으킬수 있으며 결과가 엉뚱하게 보일수 있습니다.
 	</Guide>
-	<ChromeDriver>86,87,88,85,84,83,81,80,79</ChromeDriver>
+	<ChromeDriver>87,88,89,86,85,84,83,81,80,79</ChromeDriver>
 	<EdgeDriver>86,87,88,89,85</EdgeDriver>
 	<Action1>
 		<Action>Search</Action>
