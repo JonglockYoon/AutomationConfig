@@ -66,7 +66,7 @@ V1.76에서 안정화작업이 일부 되었습니다.
 환경설정
   사용자 정보를 등록하는 화면입니다.
 	</Guide>
-	<ChromeDriver>86,87,88,85,84,83,81,80,79</ChromeDriver>
+	<ChromeDriver>87,88,89,86,85,84,83,81,80,79</ChromeDriver>
 	<EdgeDriver>86,87,88,89,85</EdgeDriver>
 	<Action1>
 		<Action>Search</Action>
