@@ -71,7 +71,7 @@ V1.76에서 안정화작업이 일부 되었습니다.
 	<Action1>
 		<Action>Search</Action>
 		<URL>https://www.naver.com</URL>
-		<SearchText>독일pm쥬스 3종,리스토레이트,pm파워칵테일</SearchText>
+		<SearchText>독일pm쥬스,리스토레이트,pm파워칵테일</SearchText>
 		<FindText1>피엠인터내셔널임경미</FindText1>
 		<FindText2>아토독</FindText2>
 	</Action1>
