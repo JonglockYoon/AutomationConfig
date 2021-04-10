@@ -9,9 +9,9 @@
 	<Version>V1.52</Version>
 	<OtherAuth>12345</OtherAuth>
 	<Table3>1</Table3>
-	<LikeWaitSec>15</LikeWaitSec>
+	<LikeWaitSec>9</LikeWaitSec>
         <Interval>90</Interval>
-	<CommentWaitSec>40</CommentWaitSec>
+	<CommentWaitSec>30</CommentWaitSec>
 	<AuthURL>https://www.instagram.com/atodog_/</AuthURL>
 	<VersionDesc> <!-- 사용자 화면에 나타나는 Message이다. -->
 인스타그램 오토메이션
