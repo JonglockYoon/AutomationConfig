@@ -102,8 +102,8 @@ V1.52에서	검색으로 이웃찾기,팔로우의팔로우로 이웃찾기기�
 	<Action3>
 		<Action>Search</Action>
 		<URL>https://www.coupang.com</URL>
-		<SearchText>독일 피엠 파워 칵테일</SearchText>
-		<FindText1>독일피엠인터내셔널 피트라인 파워칵테일 세포를 재생시키는 효소 영양주스</FindText1>
+		<SearchText>독일피엠 피트라인 리스토레이트 해독 미네랄주스</SearchText>
+		<FindText1>독일피엠 피트라인 리스토레이트 해독 미네랄주스</FindText1>
 		<FindText2></FindText2>
 	</Action3>
 </SETTING>
