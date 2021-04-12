@@ -102,8 +102,8 @@ V1.52에서	검색으로 이웃찾기,팔로우의팔로우로 이웃찾기기�
 	<Action3>
 		<Action>Search</Action>
 		<URL>https://www.coupang.com</URL>
-		<SearchText>독일피엠 리스토레이트 천연 미네랄주스</SearchText>
-		<FindText1>독일피엠 리스토레이트 천연 미네랄주스</FindText1>
+		<SearchText>리스토레이트</SearchText>
+		<FindText1>[리스토레이트] 독일피엠 피트라인 천연주스</FindText1>
 		<FindText2></FindText2>
 	</Action3>
 </SETTING>
