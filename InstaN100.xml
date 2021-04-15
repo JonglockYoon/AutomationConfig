@@ -92,5 +92,19 @@ V1.52에서	검색으로 이웃찾기,팔로우의팔로우로 이웃찾기기�
 		<FindText1>피엠인터내셔널윤영은</FindText1>
 		<FindText2>도그도노 프리미엄 아토독 발효 명품 샴푸</FindText2>
 	</Action1>
+	<Action2>
+		<Action>URL</Action>
+		<URL>https://www.coupang.com/vp/products/2021492526</URL>
+		<SearchText></SearchText>
+		<FindText1></FindText1>
+		<FindText2></FindText2>
+	</Action2>
+	<Action3>
+		<Action>URL</Action>
+		<URL>https://www.coupang.com/vp/products/5338806830</URL>
+		<SearchText></SearchText>
+		<FindText1></FindText1>
+		<FindText2></FindText2>
+	</Action3>
 </SETTING>
 </POLICY>
