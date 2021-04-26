@@ -83,8 +83,8 @@ V1.53에서	검색,언팔 한건당 대기시간이 추가되었습니다.
 주의사항:
 오른쪽 버턴이 빨간색(작업중)일때 왼쪽 리스트 상단을 클릭해서 순서를 바꾸면 오동작을 일으킬수 있으며 결과가 엉뚱하게 보일수 있습니다.
 	</Guide>
-	<ChromeDriver>88,89,90,87,86,85,84,83,81,80,79</ChromeDriver>
-	<EdgeDriver>89,90,91,88,87,86,85</EdgeDriver>
+	<ChromeDriver>89,90,91,88,87,86,85,84,83,81,80,79</ChromeDriver>
+	<EdgeDriver>90,91,92,89,88,87,86,85</EdgeDriver>
 	<Action1>
 		<Action>Search</Action>
 		<URL>https://www.naver.com</URL>
