@@ -15,7 +15,7 @@
 	<Guide> <!-- 사용자 화면에 나타나는 Program 사용 Manual입니다. -->
 네이버 블로그 주소 수집 프로그램입니다.
 	</Guide>
-	<ChromeDriver>87,88,89,86,85,84,83,81,80,79</ChromeDriver>
+	<ChromeDriver>89,90,91,88,87,86,85,84,83,81,80,79</ChromeDriver>
 	<Action1>
 		<Action>Search</Action>
 		<SearchText>강아지샴푸 아토독</SearchText>
