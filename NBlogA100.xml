@@ -23,7 +23,7 @@
 Chrome을 최신버젼으로 Upgrade한후 다시 실행하세요.
 
 	</Guide>
-	<ChromeDriver>87,88,89,86,85,84,83,81,80,79</ChromeDriver>
+	<ChromeDriver>88,89,90,87,86,85,84,83,81,80,79</ChromeDriver>
 	<Action1>
 		<Action>Search</Action>
 		<URL>https://www.naver.com</URL>
