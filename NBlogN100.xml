@@ -70,7 +70,7 @@ V1.78에서 버턴클릭할때 실행되지 않는 이상동작이 개선되었�
 	<Action1>
 		<Action>Search</Action>
 		<URL>https://www.naver.com</URL>
-		<SearchText></SearchText>
+		<SearchText>아토독</SearchText>
 		<FindText1>피엠인터내셔널윤영은</FindText1>
 		<FindText2>도그도노 프리미엄 아토독 발효 명품 샴푸</FindText2>
 	</Action1>
