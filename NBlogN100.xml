@@ -65,8 +65,8 @@ V1.80에서 네이버 페이지개편에때른 이상동작이 개선되었습�
 환경설정
   사용자 정보를 등록하는 화면입니다.
 	</Guide>
-	<ChromeDriver>89,90,91,88,87,86,85,84,83,81,80,79</ChromeDriver>
-	<EdgeDriver>90,91,92,89,88,87,86,85</EdgeDriver>
+	<ChromeDriver>89,90,91,88,87,86</ChromeDriver>
+	<EdgeDriver>90,91,92,89,88,87</EdgeDriver>
 	<Action1>
 		<Action>Search</Action>
 		<URL>https://www.naver.com</URL>
