@@ -10,7 +10,7 @@
 	<OtherAuth>12345</OtherAuth>
 	<Table3>1</Table3>
 	<LikeWaitSec>9</LikeWaitSec>
-        <Interval>90</Interval>
+        <Interval>70</Interval>
 	<CommentWaitSec>90</CommentWaitSec>
 	<AuthURL>https://www.instagram.com/atodog_/</AuthURL>
 	<VersionDesc> <!-- 사용자 화면에 나타나는 Message이다. -->
