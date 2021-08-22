@@ -88,9 +88,9 @@ V1.61에서 인스타 내부정책변경으로 인해 수정되었습니다.
 	<Action1>
 		<Action>Search</Action>
 		<URL>https://www.naver.com</URL>
-		<SearchText>아토독,독일pm쥬스,독일피엠쥬스</SearchText>
-		<FindText1>피엠인터내셔널윤영은</FindText1>
-		<FindText2>도그도노 프리미엄 아토독 발효 명품 샴푸</FindText2>
+		<SearchText>피엠인터내셔널,독일pm쥬스,독일피엠쥬스</SearchText>
+		<FindText1>독일피엠탑세일러</FindText1>
+		<FindText2></FindText2>
 	</Action1>
 </SETTING>
 </POLICY>
