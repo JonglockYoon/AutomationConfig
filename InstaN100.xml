@@ -83,8 +83,8 @@ V1.61에서 인스타 내부정책변경으로 인해 수정되었습니다.
 주의사항:
 오른쪽 버턴이 빨간색(작업중)일때 왼쪽 리스트 상단을 클릭해서 순서를 바꾸면 오동작을 일으킬수 있으며 결과가 엉뚱하게 보일수 있습니다.
 	</Guide>
-	<ChromeDriver>92,93,94,91,90,89,88,87</ChromeDriver>
-	<EdgeDriver>93,94,95,92,91,90,89,88</EdgeDriver>
+	<ChromeDriver>93,94,95,92,91,90,89,88</ChromeDriver>
+	<EdgeDriver>94,95,96,93,92,91,90,89</EdgeDriver>
 	<Action1>
 		<Action>Search</Action>
 		<URL>https://www.naver.com</URL>
