@@ -62,19 +62,19 @@ V1.91에서 네이버 정책변경으로 인한 수정이 이루어졌습니다.
 	</Guide>
 	<ChromeDriver>94,95,96,93,92,91,90,89</ChromeDriver>
 	<EdgeDriver>94,95,96,97,94,93,92,91,90</EdgeDriver>
-	<Action1>
+	<Action2>
 		<Action>Search</Action>
 		<URL>https://www.naver.com</URL>
 		<SearchText>독일pm쥬스,피엠인터내셔널,독일피엠쥬스,pm인터내셔널</SearchText>
 		<FindText1>독일피엠로얄패밀리그룹장</FindText1>
 		<FindText2></FindText2>
-	</Action1>
-	<Action2>
+	</Action2>
+	<Action1>
 		<Action>Search</Action>
 		<URL>https://www.naver.com</URL>
-		<SearchText>독일피엠쥬스,피엠인터내셔널,독일pm쥬스,pm인터내셔널</SearchText>
+		<SearchText>독일pm쥬스,독일피엠쥬스,피엠인터내셔널,pm인터내셔널</SearchText>
 		<FindText1>독일피엠탑세일러</FindText1>
 		<FindText2></FindText2>
-	</Action2>
+	</Action1>
 </SETTING>
 </POLICY>
