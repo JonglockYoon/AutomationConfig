@@ -65,8 +65,8 @@ V2.02에서 스마트스토어 인증 경로가 변경 되었습니다.
 환경설정
   사용자 정보를 등록하는 화면입니다.
 	</Guide>
-	<ChromeDriver>95,96,97,94,93,92,91</ChromeDriver>
-	<EdgeDriver>96,97,98,95,94,93,92</EdgeDriver>
+	<ChromeDriver>96,97,98,95,94,93,92</ChromeDriver>
+	<EdgeDriver>97,98,99,96,95,94,93</EdgeDriver>
 	<Action2>
 		<Action>Search</Action>
 		<URL>https://www.naver.com</URL>
