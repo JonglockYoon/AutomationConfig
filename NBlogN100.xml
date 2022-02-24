@@ -64,8 +64,8 @@ V2.03에서 네이버 정책변경으로 인한 수정이 이루어졌습니다.
 환경설정
   사용자 정보를 등록하는 화면입니다.
 	</Guide>
-	<ChromeDriver>96,97,98,95,94,93,92</ChromeDriver>
-	<EdgeDriver>97,98,99,96,95,94,93</EdgeDriver>
+	<ChromeDriver>97,98,99,96,95,94,93</ChromeDriver>
+	<EdgeDriver>98,99,100,97,96,95,94</EdgeDriver>
 	<Action2>
 		<Action>Search</Action>
 		<URL>https://www.naver.com</URL>
