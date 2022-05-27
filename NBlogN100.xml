@@ -10,7 +10,7 @@
 	<OtherAuth>12345</OtherAuth>
 	<Table3>2</Table3>
 	<LikeWaitSec>27</LikeWaitSec>
-	<Interval>27</Interval>
+	<Interval>120</Interval>
 	<Stay>97</Stay>
 	<CommentWaitSec>65</CommentWaitSec>
 	<AuthURL>https://smartstore.naver.com/atodog0/products/6067700682</AuthURL>
