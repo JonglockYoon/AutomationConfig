@@ -9,7 +9,7 @@
 	<Version>V2.04</Version>
 	<OtherAuth>12345</OtherAuth>
 	<Table3>2</Table3>
-	<LikeWaitSec>27</LikeWaitSec>
+	<LikeWaitSec>37</LikeWaitSec>
 	<Interval>120</Interval>
 	<Stay>97</Stay>
 	<CommentWaitSec>65</CommentWaitSec>
