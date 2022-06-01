@@ -65,8 +65,8 @@ V2.05에서 새로운 이웃찾기 안정화 이루어졌습니다.
 환경설정
   사용자 정보를 등록하는 화면입니다.
 	</Guide>
-	<ChromeDriver>100,101,102,99,98,97,96</ChromeDriver>
-	<EdgeDriver>101,102,103,100,99,98,97</EdgeDriver>
+	<ChromeDriver>101,102,103,100,99,98,97</ChromeDriver>
+	<EdgeDriver>102,103,104,101,100,99,98</EdgeDriver>
 	<Action2>
 		<Action>Search</Action>
 		<URL>https://www.naver.com</URL>
