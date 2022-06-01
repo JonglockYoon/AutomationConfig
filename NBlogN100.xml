@@ -12,7 +12,7 @@
 	<LikeWaitSec>37</LikeWaitSec>
 	<Interval>120</Interval>
 	<Stay>97</Stay>
-	<CommentWaitSec>110</CommentWaitSec>
+	<CommentWaitSec>120</CommentWaitSec>
 	<CommentCount>85</CommentCount>
 	<AuthURL>https://smartstore.naver.com/atodog0/products/6067700682</AuthURL>
 	<VersionDesc> <!-- 사용자 화면에 나타나는 Message이다. -->
