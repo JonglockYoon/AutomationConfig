@@ -12,8 +12,8 @@
 	<LikeWaitSec>37</LikeWaitSec>
 	<Interval>120</Interval>
 	<Stay>97</Stay>
-	<CommentWaitSec>120</CommentWaitSec>
-	<CommentCount>105</CommentCount>
+	<CommentWaitSec>130</CommentWaitSec>
+	<CommentCount>85</CommentCount>
 	<AuthURL>https://smartstore.naver.com/atodog0/products/6067700682</AuthURL>
 	<VersionDesc> <!-- 사용자 화면에 나타나는 Message이다. -->
 V1.61에서 로그인할때 ID 와 암호를 저장하지 않고 로그인하도록 변경되었습니다
