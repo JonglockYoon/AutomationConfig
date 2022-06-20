@@ -81,5 +81,12 @@ V2.06에서 새로운 이웃찾기 안정화 이루어졌습니다.
 		<FindText1>독일피엠탑세일러</FindText1>
 		<FindText2></FindText2>
 	</Action1>
+	<Action3>
+		<Action>Search</Action>
+		<URL>https://www.naver.com</URL>
+		<SearchText>독일pm쥬스,피엠인터내셔널,독일피엠쥬스,pm인터내셔널,독일pm인터내셔널</SearchText>
+		<FindText1>Dr.챈의 독일피엠보고서</FindText1>
+		<FindText2></FindText2>
+	</Action3>	
 </SETTING>
 </POLICY>
