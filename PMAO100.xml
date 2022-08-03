@@ -6,13 +6,13 @@
 	<UserGroup1>1,2,</UserGroup1>
 	<UserGroup9>901,1000</UserGroup9>
 	<Upgrade>True</Upgrade> <!-- True일때 Version이 다르면 Download한다. -->
-	<Version>V1.00</Version>
+	<Version>V1.01</Version>
 	<OtherAuth>12345</OtherAuth>
 	<Interval>120</Interval>
 	<Stay>97</Stay>
 	<AuthURL>https://smartstore.naver.com/atodog0/products/6067700682</AuthURL>
 	<VersionDesc> <!-- 사용자 화면에 나타나는 Message이다. -->
-V1.00 Release
+V1.01 기존회원(2022.8.3이전) 인증 나중에하기
 새로운 버젼을 사용하실려면 Upgrade버턴을 누르세요
 	</VersionDesc> 
 	<Guide> PM Office 자동화 프로그램입니다.
