@@ -17,7 +17,7 @@ V1.01 기존회원(2022.8.3이전) 인증 나중에하기
 	</VersionDesc> 
 	<Guide> PM Office 자동화 프로그램입니다.
 	</Guide>
-	<ChromeDriver>102,103,104,101,100,99,98</ChromeDriver>
+	<ChromeDriver>103,104,105,102,101,100,99</ChromeDriver>
 	<EdgeDriver>103,104,105,102,101,100,99</EdgeDriver>
 	<Action1>
 		<Action>Search</Action>
