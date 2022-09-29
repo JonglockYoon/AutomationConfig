@@ -18,8 +18,8 @@ V1.03 주문창열기 수정
 	</VersionDesc> 
 	<Guide> PM Office 자동화 프로그램입니다.
 	</Guide>
-	<ChromeDriver>103,104,105,102,101,100,99</ChromeDriver>
-	<EdgeDriver>103,104,105,102,101,100,99</EdgeDriver>
+	<ChromeDriver>104,105,106,103,102,101,100</ChromeDriver>
+	<EdgeDriver>104,105,106,103,102,101,100</EdgeDriver>
 	<Action1>
 		<Action>Search</Action>
 		<URL>https://www.naver.com</URL>
