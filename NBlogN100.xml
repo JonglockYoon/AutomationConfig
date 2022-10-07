@@ -65,8 +65,8 @@ V2.07에서 새로운 이웃찾기 및 공감응답 안정화 이루어졌습니
 환경설정
   사용자 정보를 등록하는 화면입니다.
 	</Guide>
-	<ChromeDriver>104,105,106,103,102,101,100</ChromeDriver>
-	<EdgeDriver>104,105,106,103,102,101,100</EdgeDriver>
+	<ChromeDriver>105,106,107,104,103,102,101</ChromeDriver>
+	<EdgeDriver>105,106,107,104,103,102,101</EdgeDriver>
 	<Action2>
 		<Action>Search</Action>
 		<URL>https://www.naver.com</URL>
