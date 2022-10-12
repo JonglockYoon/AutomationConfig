@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <POLICY>
 <SETTING ID="NBlogC100">
-	<Active>True</Active> <!-- False이면 이프로그램을 폐기한다. -->
+	<Active>False</Active> <!-- False이면 이프로그램을 폐기한다. -->
 	<Upgrade>True</Upgrade> <!-- True일때 Version이 다르면 Download한다. -->
 	<Version>V1.10</Version>
 	<VersionDesc> <!-- 사용자 화면에 나타나는 Message이다. -->
