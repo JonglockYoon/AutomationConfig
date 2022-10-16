@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<POLICY>
+<SETTING ID="NBlogC110">
+	<Active>True</Active> <!-- False이면 이프로그램을 폐기한다. -->
+	<Upgrade>True</Upgrade> <!-- True일때 Version이 다르면 Download한다. -->
+	<Version>V1.11</Version>
+	<VersionDesc> <!-- 사용자 화면에 나타나는 Message이다. -->
+새로운 Update버젼이 올라와 있습니다.
+새로운 버젼을 사용하실려면 Upgrade버턴을 누르세요
+V1.11 - 2021.10.17 수정
+	</VersionDesc> 
+	<Guide> <!-- 사용자 화면에 나타나는 Program 사용 Manual입니다. -->
+네이버 블로그 컨텐츠 다운로드 프로그램입니다.
+	</Guide>
+	<Users>All</Users> <!-- All일때는 Group check를 하지않고 Member일때는 Group에 등록된 User만 동작 허가한다. -->
+	<UserGroup1>1,2,</UserGroup1>
+	<UserGroup9>901,1000</UserGroup9>
+</SETTING>
+</POLICY>
