@@ -19,8 +19,8 @@ V1.04 선택ID가 없을때 에러창 표시
 	</VersionDesc> 
 	<Guide> PM Office 자동화 프로그램입니다.
 	</Guide>
-	<ChromeDriver>105,106,107,104,103,102,101</ChromeDriver>
-	<EdgeDriver>105,106,107,104,103,102,101</EdgeDriver>
+	<ChromeDriver>106,107,108,105,104,103,102</ChromeDriver>
+	<EdgeDriver>106,107,108,105,104,103,102</EdgeDriver>
 	<Action1>
 		<Action>Search</Action>
 		<URL>https://www.naver.com</URL>
