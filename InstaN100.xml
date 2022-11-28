@@ -6,7 +6,7 @@
 	<UserGroup1>1,2,</UserGroup1>
 	<UserGroup9>901,1000</UserGroup9>
 	<Upgrade>True</Upgrade> <!-- True일때 Version이 다르면 Download한다. -->
-	<Version>V1.69</Version>
+	<Version>V1.70</Version>
 	<OtherAuth>12345</OtherAuth>
 	<Table3>1</Table3>
 	<LikeWaitSec>15</LikeWaitSec>
@@ -26,7 +26,7 @@ V1.61에서 2021년 8월 5일 개선중단.
 V1.62에서 2022년 9월 6일 1년 휴지기간을 마치고 다시 시작합니다.
 V1.65에서 좋아요응답가기가 개선되었습니다.
 V1.68에서 이웃리스트 가져오기 안정화 작업이 되었습니다.
-V1.69에서 언팔정책변경으로 개선되었습니다.
+V1.70에서 언팔및검색 정책변경으로 개선되었습니다.
 </VersionDesc> 
 <Guide> *환경설정에서 ID입력 및 저장히시고 인증버턴을누르면 모든메뉴사용이 가능합니다.<!-- 사용자 화면에 나타나는 Program 사용 Manual입니다. -->
  인스타그램 자동화 프로그램입니다.
