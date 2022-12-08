@@ -10,7 +10,7 @@
 	<OtherAuth>12345</OtherAuth>
 	<Table3>2</Table3>
 	<LikeWaitSec>37</LikeWaitSec>
-	<Interval>120</Interval>
+	<Interval>45</Interval>
 	<Stay>97</Stay>
 	<CommentWaitSec>140</CommentWaitSec>
 	<CommentCount>45</CommentCount>
