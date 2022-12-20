@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<POLICY>
+<SETTING ID="YoutubeN100">
+	<Active>True</Active> <!-- False이면 이프로그램을 폐기한다. -->
+	<Users>All</Users> <!-- All일때는 Group check를 하지않고 Member일때는 Group에 등록된 User만 동작 허가한다. -->
+	<UserGroup1>1,2,</UserGroup1>
+	<UserGroup9>901,1000</UserGroup9>
+	<Upgrade>True</Upgrade> <!-- True일때 Version이 다르면 Download한다. -->
+	<Version>V1.10</Version>
+	<OtherAuth>12345</OtherAuth>
+	<Table3>1</Table3>
+	<LikeWaitSec>15</LikeWaitSec>
+        <Interval>70</Interval>
+	<CommentWaitSec>180</CommentWaitSec>
+	<AuthURL>https://www.Youtube.com/@PMTopSeller/</AuthURL>
+	<VersionDesc> <!-- 사용자 화면에 나타나는 Message이다. -->
+유튜브 오토메이션
+새로운 버젼을 사용하실려면 Upgrade버턴을 누르세요		
+V1.10에서	유튜브 이웃찾기기능 첫 시도.
+</VersionDesc> 
+<Guide> *환경설정에서 ID입력 및 저장히시고 인증버턴을누르면 모든메뉴사용이 가능합니다.<!-- 사용자 화면에 나타나는 Program 사용 Manual입니다. -->
+ 유튜브 자동화 프로그램입니다.
+	
+검색으로이웃찾기
+  특정키워드를 이용해서 유튜브 사용자리스트를 가져옵니다 
+좋아요 클릭
+   
+댓글 달기
+   선택한 유튜브 최근글에 댓글을 답니다.
+
+환경설정
+  사용자 정보를 등록하는 화면입니다.
+ 
+	</Guide>
+	<ChromeDriver>107,108,109,106,105,104,103</ChromeDriver>
+	<EdgeDriver>107,108,109,106,105,104,103</EdgeDriver>
+        <Action2>
+		<Action>Search</Action>
+		<URL>https://www.naver.com</URL>
+		<SearchText>pm인터내셔널,피트라인,리스토레이트,독일pm쥬스효능</SearchText>
+		<FindText1>독일피엠로얄패밀리그룹장</FindText1>
+		<FindText2></FindText2>
+	</Action2>
+	<Action1>
+		<Action>Search</Action>
+		<URL>https://www.naver.com</URL>
+		<SearchText>독일피엠탑세일러,파워칵테일,독일pm기초3종스,피트라인</SearchText>
+		<FindText1>독일피엠탑세일러</FindText1>
+		<FindText2></FindText2>
+	</Action1>	
+</SETTING>
+</POLICY>
