@@ -34,19 +34,5 @@ V1.10에서	유튜브 이웃찾기기능 첫 시도.
 	</Guide>
 	<ChromeDriver>107,108,109,106,105,104,103</ChromeDriver>
 	<EdgeDriver>107,108,109,106,105,104,103</EdgeDriver>
-        <Action2>
-		<Action>Search</Action>
-		<URL>https://www.naver.com</URL>
-		<SearchText>pm인터내셔널,피트라인,리스토레이트,독일pm쥬스효능</SearchText>
-		<FindText1>독일피엠로얄패밀리그룹장</FindText1>
-		<FindText2></FindText2>
-	</Action2>
-	<Action1>
-		<Action>Search</Action>
-		<URL>https://www.naver.com</URL>
-		<SearchText>독일피엠탑세일러,파워칵테일,독일pm기초3종스,피트라인</SearchText>
-		<FindText1>독일피엠탑세일러</FindText1>
-		<FindText2></FindText2>
-	</Action1>	
 </SETTING>
 </POLICY>
