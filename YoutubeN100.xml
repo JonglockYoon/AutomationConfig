@@ -11,7 +11,7 @@
 	<Table3>1</Table3>
 	<LikeWaitSec>15</LikeWaitSec>
         <Interval>70</Interval>
-	<CommentWaitSec>180</CommentWaitSec>
+	<CommentWaitSec>20</CommentWaitSec>
 	<AuthURL>https://www.Youtube.com/@PMTopSeller/</AuthURL>
 	<VersionDesc> <!-- 사용자 화면에 나타나는 Message이다. -->
 유튜브 오토메이션
