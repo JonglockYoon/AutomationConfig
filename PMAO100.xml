@@ -20,8 +20,8 @@ V1.05 안정화
 	</VersionDesc> 
 	<Guide> PM Office 자동화 프로그램입니다.
 	</Guide>
-	<ChromeDriver>107,108,109,106,105,104,103</ChromeDriver>
-	<EdgeDriver>107,108,109,106,105,104,103</EdgeDriver>
+	<ChromeDriver>108,109,110,107,106,105,104</ChromeDriver>
+	<EdgeDriver>108,109,110,107,106,105,104</EdgeDriver>
 	<Action1>
 		<Action>Search</Action>
 		<URL>https://www.naver.com</URL>
