@@ -76,19 +76,5 @@ V1.75,76에서 안정화 작업이 되었습니다.
 	</Guide>
 	<ChromeDriver>108,109,110,107,106,105,104</ChromeDriver>
 	<EdgeDriver>108,109,110,107,106,105,104</EdgeDriver>
-        <Action2>
-		<Action>Search</Action>
-		<URL>https://www.naver.com</URL>
-		<SearchText>pm인터내셔널,피트라인,리스토레이트,독일pm쥬스효능</SearchText>
-		<FindText1>독일피엠로얄패밀리그룹장</FindText1>
-		<FindText2></FindText2>
-	</Action2>
-	<Action1>
-		<Action>Search</Action>
-		<URL>https://www.naver.com</URL>
-		<SearchText>독일피엠탑세일러,파워칵테일,독일pm기초3종스,피트라인</SearchText>
-		<FindText1>독일피엠탑세일러</FindText1>
-		<FindText2></FindText2>
-	</Action1>	
 </SETTING>
 </POLICY>
