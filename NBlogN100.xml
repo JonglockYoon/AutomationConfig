@@ -65,8 +65,8 @@ V2.08에서 인증Check 보완.
 환경설정
   사용자 정보를 등록하는 화면입니다.
 	</Guide>
-	<ChromeDriver>108,109,110,107,106,105,104</ChromeDriver>
-	<EdgeDriver>108,109,110,107,106,105,104</EdgeDriver>
+	<ChromeDriver>109,110,111,108,107,106</ChromeDriver>
+	<EdgeDriver>109,110,111,108,107,106</EdgeDriver>
 	<Action2>
 		<Action>Search</Action>
 		<URL>https://www.naver.com</URL>
