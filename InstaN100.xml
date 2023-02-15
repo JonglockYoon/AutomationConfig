@@ -74,7 +74,7 @@ V1.75,76에서 안정화 작업이 되었습니다.
 주의사항:
 오른쪽 버턴이 빨간색(작업중)일때 왼쪽 리스트 상단을 클릭해서 순서를 바꾸면 오동작을 일으킬수 있으며 결과가 엉뚱하게 보일수 있습니다.
 	</Guide>
-	<ChromeDriver>108,109,110,107,106,105,104</ChromeDriver>
-	<EdgeDriver>108,109,110,107,106,105,104</EdgeDriver>
+	<ChromeDriver>109,110,111,108,107,106</ChromeDriver>
+	<EdgeDriver>109,110,111,108,107,106</EdgeDriver>
 </SETTING>
 </POLICY>
