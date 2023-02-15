@@ -21,8 +21,8 @@ V1.06 티켓수량 선택부분 개선 및 예약 기능 추가.
 	</VersionDesc> 
 	<Guide> PM Office 자동화 프로그램입니다.
 	</Guide>
-	<ChromeDriver>108,109,110,107,106,105,104</ChromeDriver>
-	<EdgeDriver>108,109,110,107,106,105,104</EdgeDriver>
+	<ChromeDriver>109,110,111,108,107,106</ChromeDriver>
+	<EdgeDriver>109,110,111,108,107,106</EdgeDriver>
 	<Action1>
 		<Action>Search</Action>
 		<URL>https://www.naver.com</URL>
