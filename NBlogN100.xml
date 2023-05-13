@@ -65,8 +65,8 @@ V2.10에서 이웃목록 페이지 변경 대응.
 환경설정
   사용자 정보를 등록하는 화면입니다.
 	</Guide>
-	<ChromeDriver>111,112,113,110,109,108</ChromeDriver>
-	<EdgeDriver>111,112,113,110,109,108</EdgeDriver>
+	<ChromeDriver>112,113,114,111,110,109</ChromeDriver>
+	<EdgeDriver>112,113,114,111,110,109</EdgeDriver>
 	<Action2>
 		<Action>Search</Action>
 		<URL>https://www.naver.com</URL>
