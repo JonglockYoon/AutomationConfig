@@ -6,7 +6,7 @@
 	<UserGroup1>1,2,</UserGroup1>
 	<UserGroup9>901,1000</UserGroup9>
 	<Upgrade>True</Upgrade> <!-- True일때 Version이 다르면 Download한다. -->
-	<Version>V1.82</Version>
+	<Version>V1.83</Version>
 	<OtherAuth>12345</OtherAuth>
 	<Table3>1</Table3>
 	<OverDay>30</OverDay>
@@ -29,6 +29,7 @@ V1.71에서 언팔및검색 정책변경으로 개선되었습니다.
 V1.74에서 댓글 및 DM 게시에대한 안정화 작업이 되었습니다.	
 V1.75,76,77,78,79에서 안정화 작업이 되었습니다.
 V1.80,81,82에서 팔로워 가져오기 안정화(인스타정책변경 대응).
+V1.83에서 댓글달기 갯수 30->20으로 변경
 </VersionDesc> 
 <Guide> *환경설정에서 ID입력 및 저장히시고 인증버턴을누르면 모든메뉴사용이 가능합니다.<!-- 사용자 화면에 나타나는 Program 사용 Manual입니다. -->
  인스타그램 자동화 프로그램입니다.
