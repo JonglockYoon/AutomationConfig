@@ -6,7 +6,7 @@
 	<UserGroup1>1,2,</UserGroup1>
 	<UserGroup9>901,1000</UserGroup9>
 	<Upgrade>True</Upgrade> <!-- True일때 Version이 다르면 Download한다. -->
-	<Version>V1.17</Version>
+	<Version>V1.18</Version>
 	<OtherAuth>12345</OtherAuth>
 	<Interval>120</Interval>
 	<Stay>97</Stay>
