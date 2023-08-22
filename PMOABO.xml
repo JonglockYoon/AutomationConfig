@@ -18,8 +18,8 @@ V1.00 First
 	<Guide> PMOffice ABO가져오기 프로그램입니다.
 
 </Guide>
-	<ChromeDriver>112,113,114,111,110,109</ChromeDriver>
-	<EdgeDriver>112,113,114,111,110,109</EdgeDriver>
+	<ChromeDriver>113,114,116,112,111,110</ChromeDriver>
+	<EdgeDriver>113,114,116,112,111,110</EdgeDriver>
 	<Action1>
 		<Action>Search</Action>
 		<URL>https://www.naver.com</URL>
