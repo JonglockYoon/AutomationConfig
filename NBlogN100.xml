@@ -64,8 +64,8 @@ V2.13 안정화
 환경설정
   사용자 정보를 등록하는 화면입니다.
 	</Guide>
-	<ChromeDriver>113,114,116,112,111,110</ChromeDriver>
-	<EdgeDriver>113,114,116,112,111,110</EdgeDriver>
+	<ChromeDriver>114,116,117,113,112,111</ChromeDriver>
+	<EdgeDriver>114,116,117,113,112,111</EdgeDriver>
 	<Action2>
 		<Action>Search</Action>
 		<URL>https://www.naver.com</URL>
