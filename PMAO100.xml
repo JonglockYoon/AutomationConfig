@@ -31,8 +31,8 @@ V1.23,24,25,26,27,28 할부선택 추가
 예약 버턴을 눌러놓아도 되고,
 11시가 임박(15분전)했다면 자동실행 버턴을 눌러도 됩니다.
 </Guide>
-	<ChromeDriver>114,116,117,113,112,111</ChromeDriver>
-	<EdgeDriver>114,116,117,113,112,111</EdgeDriver>
+	<ChromeDriver>115,116,117,118,114,113,112</ChromeDriver>
+	<EdgeDriver>115,116,117,118,114,113,112</EdgeDriver>
 	<Action1>
 		<Action>Search</Action>
 		<URL>https://www.naver.com</URL>
