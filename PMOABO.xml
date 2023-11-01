@@ -18,7 +18,7 @@ V1.00 First
 	<Guide> PMOffice ABO가져오기 프로그램입니다.
 
 </Guide>
-	<ChromeDriver>116,117,118,114,113,112</ChromeDriver>
+	<ChromeDriver>117,118,119,116,114,113</ChromeDriver>
 	<EdgeDriver>116,117,118,114,113,112</EdgeDriver>
 	<Action1>
 		<Action>Search</Action>
