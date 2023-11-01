@@ -64,7 +64,7 @@ V2.13 안정화
 환경설정
   사용자 정보를 등록하는 화면입니다.
 	</Guide>
-	<ChromeDriver>116,117,118,114,113,112</ChromeDriver>
+	<ChromeDriver>117,118,119,116,114,113</ChromeDriver>
 	<EdgeDriver>116,117,118,114,113,112</EdgeDriver>
 	<Action2>
 		<Action>Search</Action>
