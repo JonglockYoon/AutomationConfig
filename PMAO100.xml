@@ -32,7 +32,7 @@ V1.30 두개제품 선택으로 확장
 예약 버턴을 눌러놓아도 되고,
 11시가 임박(15분전)했다면 자동실행 버턴을 눌러도 됩니다.
 </Guide>
-	<ChromeDriver>116,117,118,114,113,112</ChromeDriver>
+	<ChromeDriver>117,118,119,116,114,113</ChromeDriver>
 	<EdgeDriver>116,117,118,114,113,112</EdgeDriver>
 	<Action1>
 		<Action>Search</Action>
