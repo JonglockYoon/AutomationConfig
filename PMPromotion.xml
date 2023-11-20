@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <POLICY>
-<SETTING ID="PMAO100">
+<SETTING ID="PMPromotion">
 	<Active>True</Active> <!-- False이면 이프로그램을 폐기한다. -->
 	<Users>All</Users> <!-- All일때는 Group check를 하지않고 Member일때는 Group에 등록된 User만 동작 허가한다. -->
 	<UserGroup1>1,2,</UserGroup1>
@@ -23,7 +23,7 @@ V1.23,24,25,26,27,28 할부선택 추가
 V1.30 두개제품 선택으로 확장
 새로운 버젼을 사용하실려면 Upgrade버턴을 누르세요
 	</VersionDesc> 
-	<Guide> PM Office 자동화 프로그램입니다.
+	<Guide> PMPromotion 구매 자동화 프로그램입니다.
 2023년 6월 1일 부터 티켓주문은 카드수기결제로만 진행됩니다.
 따라서 카드정보가 입력되지 않으면 리스트에서 제외됩니다.
 카드정보 메뉴에서 카드정보를 입력하고 저장한다음
