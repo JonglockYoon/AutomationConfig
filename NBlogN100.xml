@@ -6,7 +6,7 @@
 	<UserGroup1>1,2,</UserGroup1>
 	<UserGroup9>901,1000</UserGroup9>
 	<Upgrade>True</Upgrade> <!-- True일때 Version이 다르면 Download한다. -->
-	<Version>V2.14</Version>
+	<Version>V2.15</Version>
 	<OtherAuth>12345</OtherAuth>
 	<Table3>2</Table3>
 	<LikeWaitSec>37</LikeWaitSec>
@@ -16,7 +16,6 @@
 	<CommentCount>45</CommentCount>
 	<AuthURL>https://smartstore.naver.com/atodog0/products/6067700682</AuthURL>
 	<VersionDesc> <!-- 사용자 화면에 나타나는 Message이다. -->
-V1.72에서 이웃글공감 7->9시간으로 늘어났으며 찜하기와소식받기확인이 수정 되었습니다
 V1.73에서 이웃리스트가져오기 할때 안되는 분들은 환경설정에서 로그인ID를 입력하고 로그인정보저장을 해 주세요
 V1.74에서 Program 시작이 안되는 문제점이 개선 되었습니다.
 V1.75에서 Chrome Browser Version이 변경되면서 2초만에 종료되는 문제가 보완 되었습니다.
@@ -27,6 +26,7 @@ V2.10에서 이웃목록 페이지 변경 대응.
 V2.11에서 로그인 확인 페이지 변경 대응.
 V2.12에서 이웃목록 페이지 변경(주소수집) 대응.
 V2.13,2.14 안정화
+V2.15 안정화
 새로운 버젼을 사용하실려면 Upgrade버턴을 누르세요
 	</VersionDesc> 
 	<Guide> *환경설정에서 ID입력 및 저장하시고 인증버턴을누르면 모든메뉴사용이 가능합니다.<!-- 사용자 화면에 나타나는 Program 사용 Manual입니다. -->
