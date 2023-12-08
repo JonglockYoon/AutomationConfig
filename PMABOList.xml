@@ -18,7 +18,7 @@ V1.00 First
 	<Guide> PMABOList 가져오기 프로그램입니다.
 
 </Guide>
-	<ChromeDriver>117,118,119,116,114,113</ChromeDriver>
+	<ChromeDriver>118,119,120,117,116,114</ChromeDriver>
 	<EdgeDriver>116,117,118,114,113,112</EdgeDriver>
 	<Action1>
 		<Action>Search</Action>
