@@ -12,7 +12,7 @@
 	<OverDay>30</OverDay>
 	<LikeWaitSec>15</LikeWaitSec>
         <Interval>70</Interval>
-	<CommentWaitSec>900</CommentWaitSec>
+	<CommentWaitSec>1200</CommentWaitSec>
 	<LikeDiv1>x6s0dn4 x1q4h3jn</LikeDiv1>
 	<AuthURL>https://www.instagram.com/PMTopSeller/</AuthURL>
 	<VersionDesc> <!-- 사용자 화면에 나타나는 Message이다. -->
