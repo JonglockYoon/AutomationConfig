@@ -17,7 +17,7 @@ V1.00
 	</VersionDesc> 
 	<Guide> PMShop 구매 자동화 프로그램입니다.
 </Guide>
-	<ChromeDriver>119,120,121,118,117,116</ChromeDriver>
+	<ChromeDriver>120,121,122,119,118,117</ChromeDriver>
 	<EdgeDriver>116,117,118,114,113,112</EdgeDriver>
 </SETTING>
 </POLICY>
