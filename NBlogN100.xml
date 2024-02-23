@@ -64,7 +64,7 @@ V2.17 좋아요응답 안정화
 환경설정
   사용자 정보를 등록하는 화면입니다.
 	</Guide>
-	<ChromeDriver>119,120,121,118,117,116</ChromeDriver>
+	<ChromeDriver>120,121,122,119,118,117</ChromeDriver>
 	<EdgeDriver>116,117,118,114,113,112</EdgeDriver>
 	<Action2>
 		<Action>Search</Action>
