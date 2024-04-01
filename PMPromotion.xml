@@ -6,7 +6,7 @@
 	<UserGroup1>1,2,</UserGroup1>
 	<UserGroup9>901,1000</UserGroup9>
 	<Upgrade>True</Upgrade> <!-- True일때 Version이 다르면 Download한다. -->
-	<Version>V2.10</Version>
+	<Version>V2.11</Version>
 	<OtherAuth>12345</OtherAuth>
 	<Interval>120</Interval>
 	<Stay>97</Stay>
@@ -20,7 +20,7 @@ V1.17,19,21,22 카드수기결제로 변경
 V1.23,24,25,26,27,28 할부선택 추가
 V1.30 두개제품 선택으로 확장
 V1.31.V1.32 Keyword 또는 조건 추가
-V2.10 Update WEB Page 대응
+V2.10,2.11 Update WEB Page 대응
 새로운 버젼을 사용하실려면 Upgrade버턴을 누르세요
 	</VersionDesc> 
 	<Guide> PMPromotion 구매 자동화 프로그램입니다.
