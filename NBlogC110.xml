@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <POLICY>
-<SETTING ID="NBlogC100">
+<SETTING ID="NBlogC110">
 	<Active>True</Active> <!-- False이면 이프로그램을 폐기한다. -->
 	<Users>All</Users> <!-- All일때는 Group check를 하지않고 Member일때는 Group에 등록된 User만 동작 허가한다. -->
 	<UserGroup1>1,2,</UserGroup1>
