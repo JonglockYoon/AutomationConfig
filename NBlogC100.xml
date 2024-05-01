@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<POLICY>
+<SETTING ID="NBlogC100">
+	<Active>True</Active> <!-- False이면 이프로그램을 폐기한다. -->
+	<Users>All</Users> <!-- All일때는 Group check를 하지않고 Member일때는 Group에 등록된 User만 동작 허가한다. -->
+	<UserGroup1>1,2,</UserGroup1>
+	<UserGroup9>901,1000</UserGroup9>
+	<Upgrade>True</Upgrade> <!-- True일때 Version이 다르면 Download한다. -->
+	<Version>V1.01</Version>
+	<OtherAuth>12345</OtherAuth>
+	<Table3>2</Table3>
+	<LikeWaitSec>37</LikeWaitSec>
+	<Interval>45</Interval>
+	<Stay>97</Stay>
+	<CommentWaitSec>140</CommentWaitSec>
+	<CommentCount>45</CommentCount>
+	<AuthURL>https://smartstore.naver.com/atodog0/products/6067700682</AuthURL>
+	<VersionDesc> <!-- 사용자 화면에 나타나는 Message이다. -->
+NBlogC100
+	</VersionDesc> 
+	<Guide> *환경설정에서 ID입력 및 저장하시고 인증버턴을누르면 모든메뉴사용이 가능합니다.<!-- 사용자 화면에 나타나는 Program 사용 Manual입니다. -->
+NBlogC100
+
+============================================================================================================
+ 환경 설정 에서 https://smartstore.naver.com/atodog0/products/6067700682 으로 찜하기와 소식받기를 다시해 주세요
+============================================================================================================
+MBlogC100
+	</Guide>
+	<ChromeDriver>121,122,123,120,119,118</ChromeDriver>
+	<EdgeDriver>116,117,118,114,113,112</EdgeDriver>
+</SETTING>
+</POLICY>
