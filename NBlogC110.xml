@@ -26,7 +26,7 @@ NBlogC100
 ============================================================================================================
 MBlogC100
 	</Guide>
-	<ChromeDriver>121,122,123,120,119,118</ChromeDriver>
+	<ChromeDriver>123,124,125,126,122,121</ChromeDriver>
 	<EdgeDriver>116,117,118,114,113,112</EdgeDriver>
 </SETTING>
 </POLICY>
