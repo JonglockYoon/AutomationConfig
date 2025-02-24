@@ -32,7 +32,7 @@ V2.10,2.11 Update WEB Page 대응
 예약 버턴을 눌러놓아도 되고,
 11시가 임박(15분전)했다면 자동실행 버턴을 눌러도 됩니다.
 </Guide>
-	<ChromeDriver>130,131,132,129,128,127</ChromeDriver>
+	<ChromeDriver>131,132,133,130,129,128</ChromeDriver>
 	<EdgeDriver>116,117,118,114,113,112</EdgeDriver>
 	<Action1>
 		<Action>Search</Action>
