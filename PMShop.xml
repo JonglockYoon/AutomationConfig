@@ -6,7 +6,7 @@
 	<UserGroup1>1,2,</UserGroup1>
 	<UserGroup9>901,1000</UserGroup9>
 	<Upgrade>True</Upgrade> <!-- True일때 Version이 다르면 Download한다. -->
-	<Version>V2.10</Version>
+	<Version>V2.11</Version>
 	<OtherAuth>12345</OtherAuth>
 	<Interval>120</Interval>
 	<Stay>97</Stay>
@@ -17,7 +17,7 @@ V1.00
 	</VersionDesc> 
 	<Guide> PMShop 구매 자동화 프로그램입니다.
 </Guide>
-	<ChromeDriver>125,126,127,124,123,122</ChromeDriver>
+	<ChromeDriver>135,136,137,134,133,132</ChromeDriver>
 	<EdgeDriver>116,117,118,114,113,112</EdgeDriver>
 </SETTING>
 </POLICY>
