@@ -12,7 +12,7 @@
 	<LikeWaitSec>10</LikeWaitSec>
         <Interval>70</Interval>
 	<CommentWaitSec>1</CommentWaitSec>
-	<AuthURL>https://www.Youtube.com/@PMTopSeller/</AuthURL>
+	<AuthURL>https://www.Youtube.com/@PMTopSeller1/</AuthURL>
 	<WaitURL>https://www.youtube.com/watch?v=I439owTX8pk</WaitURL>
 	<VersionDesc> <!-- 사용자 화면에 나타나는 Message이다. -->
 유튜브 오토메이션
