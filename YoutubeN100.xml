@@ -33,10 +33,11 @@ V1.10에서	유튜브 이웃찾기기능 첫 시도.
   사용자 정보를 등록하는 화면입니다.
  
 	</Guide>
-	<ChromeDriver>138,139,140,137,136,135</ChromeDriver>
+	<ChromeDriver>139,140,141,138,137,136</ChromeDriver>
 	<EdgeDriver>116,117,118,114,113,112</EdgeDriver>
 </SETTING>
 </POLICY>
+
 
 
 
