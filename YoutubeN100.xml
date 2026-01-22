@@ -24,10 +24,11 @@ V1.22에서	좋아요 Click 변경
  유튜브 자동화 프로그램입니다.
 	
 	</Guide>
-	<ChromeDriver>141,142,143,140,139,138</ChromeDriver>
+	<ChromeDriver>142,143,144,141,140,139</ChromeDriver>
 	<EdgeDriver>116,117,118,114,113,112</EdgeDriver>
 </SETTING>
 </POLICY>
+
 
 
 
