@@ -13,7 +13,7 @@
         <Interval>70</Interval>
 	<CommentWaitSec>1</CommentWaitSec>
 	<AuthURL>https://www.Youtube.com/@PMTopSeller/</AuthURL>
-	<WaitURL>https://youtu.be/reL-g-6sOWs</WaitURL>
+	<WaitURL>https://youtu.be/iYLDMSLOZRM</WaitURL>
 	<VersionDesc> <!-- 사용자 화면에 나타나는 Message이다. -->
 유튜브 오토메이션
 새로운 버젼을 사용하실려면 Upgrade버턴을 누르세요		
@@ -29,6 +29,7 @@ V1.23에서	메뉴진입 개선
 	<EdgeDriver>116,117,118,114,113,112</EdgeDriver>
 </SETTING>
 </POLICY>
+
 
 
 
