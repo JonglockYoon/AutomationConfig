@@ -9,7 +9,7 @@
 	<Version>V1.23</Version>
 	<OtherAuth>12345</OtherAuth>
 	<Table3>1</Table3>
-	<LikeWaitSec>10</LikeWaitSec>
+	<LikeWaitSec>30</LikeWaitSec>
         <Interval>70</Interval>
 	<CommentWaitSec>1</CommentWaitSec>
 	<AuthURL>https://www.Youtube.com/@PMTopSeller/</AuthURL>
