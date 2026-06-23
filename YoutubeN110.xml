@@ -9,7 +9,6 @@
 	<Version>V1.23</Version>
 	<OtherAuth>12345</OtherAuth>
 	<Table3>1</Table3>
-    <Interval>70</Interval>
 	<AuthURL>https://www.Youtube.com/@나투라비탈리스/</AuthURL>
 	<WaitURL>https://youtu.be/7qY7o7pJz3M</WaitURL>
 	<VersionDesc> <!-- 사용자 화면에 나타나는 Message이다. -->
